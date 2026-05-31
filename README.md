@@ -45,3 +45,10 @@ calibration methodology, and error analysis.
 ## Tools & Technologies
 Kinovea · MATLAB · Experimental design · 
 Motion capture calibration · Biomechanical data analysis
+
+## System Photos
+
+![Foot Scanner System](images/Setup.jpg)
+![Heel Cup Design](images/heel_cup_drawing.png)
+![GUI Interface](images/verasonics_gui.png)
+![Verification Results](images/verification_results.png)
