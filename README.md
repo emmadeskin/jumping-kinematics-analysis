@@ -48,7 +48,7 @@ Motion capture calibration · Biomechanical data analysis
 
 ## System Photos
 
-![Foot Scanner System](images/Setup.jpg)
+![Foot Scanner System](images/Setup.png)
 ![Heel Cup Design](images/heel_cup_drawing.png)
 ![GUI Interface](images/verasonics_gui.png)
 ![Verification Results](images/verification_results.png)
